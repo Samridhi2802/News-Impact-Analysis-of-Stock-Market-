@@ -52,8 +52,16 @@ After finding the matching symbols, the script collects stock information for th
    
  2.Calculate Average: The script focuses on the "High" and "Low" values of the stock data for simplicity. It calculates the average value by adding the "High" and 
      "Low" values together and dividing the sum by 2. This provides an estimate of the stock price before and after the news announcement.
+     
+ ---
               
               Average = (High + Low) / 2
               
      The resulting average value represents an approximation of the stock price during that specific time period.
+
+---
+
+Detailed Dcumantaion: https://code2tutorial.com/tutorial/e15abbeb-7c2a-42a7-b4b9-aaaca0a7b3b2/index.md
+
+---
 
