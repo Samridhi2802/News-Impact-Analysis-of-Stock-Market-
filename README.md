@@ -61,7 +61,7 @@ After finding the matching symbols, the script collects stock information for th
 
 ---
 
-Detailed Dcumantaion: https://code2tutorial.com/tutorial/e15abbeb-7c2a-42a7-b4b9-aaaca0a7b3b2/index.md
+**Detailed Dcumantaion:** https://code2tutorial.com/tutorial/e15abbeb-7c2a-42a7-b4b9-aaaca0a7b3b2/index.md
 
 ---
 
